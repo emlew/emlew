@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emlew
 - 👀 I’m interested in data science and software engineering (and soccer!)
-- 🌱 I’m currently learning the significance of data structures in C++
+- 🌱 I’m currently learning about Operating Systems and digital logic
 - 💞️ I’m looking to collaborate on any project!
 - 📫 Reach me on LinkedIn! https://www.linkedin.com/in/emily-lewis-390a51228
 
